@@ -1,6 +1,8 @@
 # 🚀 Professional CORS Vulnerability PoC System
 
 Welcome to the **Professional CORS Vulnerability Proof of Concept (PoC) System**! This tool is built for ethical hackers, penetration testers, and security enthusiasts who want to identify and exploit CORS misconfigurations in web applications. The system offers a sleek, professional hacker-themed interface with real-time console outputs, dynamic URL testing, and more.
+# IMAGE
+![image](https://github.com/user-attachments/assets/f149338c-682b-472d-ad1a-b395a5fcd90d)
 
 ## 🌟 Features
 - **Dynamic URL Input:** Test any endpoint by entering the target URL directly in the input field.
@@ -45,3 +47,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ⭐ Show Your Support
 If you find this tool helpful, please give it a star ⭐ on GitHub and share it with your network.
+
