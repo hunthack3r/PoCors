@@ -30,7 +30,7 @@ Welcome to the **Professional CORS Vulnerability Proof of Concept (PoC) System**
    # Alternatively, you can simply double-click the .html file to open it in your default web browser.
 
 Open the HTML File:
-Open index.html in your preferred web browser.
+Open poCors_v2.html in your preferred web browser.
 
 Enter the Target URL:
 In the input field, enter the URL of the endpoint you want to test.
