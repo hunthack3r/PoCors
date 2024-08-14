@@ -14,8 +14,21 @@ Welcome to the **Professional CORS Vulnerability Proof of Concept (PoC) System**
 ## 🎯 How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/professional-cors-poc.git
-   cd professional-cors-poc
+   # Clone the repository
+   git clone https://github.com/hunthack3r/PoCors.git
+   
+   # Navigate to the project directory
+   cd PoCors
+   
+   # Open the PoC in your web browser
+   firefox PoCors_v2.html
+   # OR
+   google-chrome PoCors_v2.html
+   # OR (for WSL users)
+   explorer.exe PoCors_v2.html
+   
+   # Alternatively, you can simply double-click the .html file to open it in your default web browser.
+
 Open the HTML File:
 Open index.html in your preferred web browser.
 
